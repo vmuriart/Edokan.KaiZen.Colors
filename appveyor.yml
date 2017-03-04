@@ -1,0 +1,5 @@
+build:
+  project: Edokan.KaiZen.Colors.sln
+
+test_script:
+  - .\Edokan.KaiZen.Colors.Demo\bin\Edokan.KaiZen.Colors.Demo.exe

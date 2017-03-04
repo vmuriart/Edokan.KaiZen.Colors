@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 
 namespace Edokan.KaiZen.Colors.Demo
@@ -24,8 +24,6 @@ namespace Edokan.KaiZen.Colors.Demo
             }
 
             //Console.WriteLine("What color is this?".Reset());
-
-            Console.ReadLine();
         }
 
         /// <summary>
