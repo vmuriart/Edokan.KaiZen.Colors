@@ -25,7 +25,7 @@ namespace Edokan.KaiZen.Colors
                 {"italic", new ColorWrap(3, 23)},
                 {"underline", new ColorWrap(4, 24)},
                 {"inverse", new ColorWrap(7, 27)},
-                
+
                 {"reset", new ColorWrap(39, 49)},
 
                 {"white", new ColorWrap(37, 39)},
@@ -55,7 +55,7 @@ namespace Edokan.KaiZen.Colors
         public static string Magenta(this string s) { return Wrap(s, "magenta"); }
         public static string Red(this string s) { return Wrap(s, "red"); }
         public static string Yellow(this string s) { return Wrap(s, "yellow"); }
-        
+
         public static string Reset(this string s) { return Wrap("", "reset") + s; }
 
 

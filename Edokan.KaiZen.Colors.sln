@@ -1,5 +1,4 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edokan.KaiZen.Colors", "Edokan.KaiZen.Colors\Edokan.KaiZen.Colors.csproj", "{C2D0F0A1-8C30-4E89-BB61-EB2F88C5C5E5}"
 EndProject

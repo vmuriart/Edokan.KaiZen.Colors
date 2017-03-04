@@ -6,9 +6,9 @@ namespace Edokan.KaiZen.Colors
 {
     /// <summary>
     /// Dummy escape sequence parser.
-    /// Can only parse color codes. Anything other than color will probably will 
+    /// Can only parse color codes. Anything other than color will probably will
     /// Must be able to parse other stuff.
-    /// 
+    ///
     /// </summary>
     public class EscapeSequencer : TextWriter
     {
@@ -144,12 +144,12 @@ namespace Edokan.KaiZen.Colors
 
         private readonly ConsoleColor[] ColorMap = {
             ConsoleColor.Black,
-            ConsoleColor.DarkRed, 
-            ConsoleColor.DarkGreen, 
-            ConsoleColor.DarkYellow, 
-            ConsoleColor.DarkBlue, 
-            ConsoleColor.DarkMagenta, 
-            ConsoleColor.DarkCyan, 
+            ConsoleColor.DarkRed,
+            ConsoleColor.DarkGreen,
+            ConsoleColor.DarkYellow,
+            ConsoleColor.DarkBlue,
+            ConsoleColor.DarkMagenta,
+            ConsoleColor.DarkCyan,
             ConsoleColor.Gray,
 
             ConsoleColor.Black,
